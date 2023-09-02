@@ -16,9 +16,6 @@ Syntax highlighted code block
 - CS193 is useful
 - CS193 is fun
 
-1. Numbered
-2. List
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
